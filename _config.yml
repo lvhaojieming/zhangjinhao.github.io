@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xing Liu 刘行"
+title                    : "Zhang Jinhao 张津豪"
 title_separator          : "-"
-name                     : &name "Xing liu"
+name                     : &name "Zhang Jinhao"
 description              : &description "Welcome to my webpage!"
 url                      : https://xinglliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xing Liu"
+  name             : "Zhang Jinhao"
   avatar           : "profile_nanjing.png"
-  bio              : "PhD student of Statistics at Imperial College London"
-  location         : "London, UK"
+  bio              : ""
+  location         : "BeiJing China"
   employer         :
   pubmed           : #
-  googlescholar    : "https://scholar.google.com/citations?user=_s0VPfUAAAAJ&hl=en"
+  googlescholar    : ""
   # email            : ""
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
